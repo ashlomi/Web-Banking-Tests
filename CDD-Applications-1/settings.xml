@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="09d5e25f-9eaa-49d1-aab5-acbd5fe94a42" name="CDD Applications-1" xmlns:con="http://eviware.com/soapui/config"><con:description>The test suite generated for the REST service [CDD API Definision]</con:description><con:settings><con:setting id="09d5e25f-9eaa-49d1-aab5-acbd5fe94a42fileName">CDD-Applications-1</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
